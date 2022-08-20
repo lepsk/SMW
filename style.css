@@ -52,7 +52,7 @@ a{
 	#25F4EE 50%,#FE2C55 75%,#FFFFFF 100%);
 }
 .wrapper .button:nth-child(4):hover .icon{
-  background: #738ADB;
+  background: #7289DA;
 }
 .wrapper .button:nth-child(5):hover .icon{
   background: #ff0000;
@@ -85,7 +85,7 @@ a{
   color: #FE2C55;
 }
 .wrapper .button:nth-child(4) span{
-  color: #738ADB;
+  color: #7289DA;
 }
 .wrapper .button:nth-child(5) span{
   color: #ff0000;
